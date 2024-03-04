@@ -4,3 +4,9 @@ def sum(a, b):
 
 sum(1, 1)
 sum(10, 2)
+
+
+for i in range(10):
+    print(i)
+dictionary = {}
+return a + b
