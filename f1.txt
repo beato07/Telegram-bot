@@ -2,3 +2,5 @@ for i in range(10):
     print(i)
 dictionary = {}
 return a + b
+
+def describe_city(city_name, country_name="Iceland"):
