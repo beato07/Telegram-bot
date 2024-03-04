@@ -5,3 +5,6 @@ return a + b
 
 def describe_city(city_name, country_name="Iceland"):
     print(f"\n{city_name} is in {country_name}")
+
+
+describe_city(city_name="Moscow")
